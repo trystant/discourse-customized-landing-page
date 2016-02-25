@@ -1,0 +1,4 @@
+plugins:
+  discourse_customized_landing_page:
+    default: true
+    client: true
